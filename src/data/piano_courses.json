@@ -1,0 +1,125 @@
+{
+    "courses": [
+      {
+        "id": 1,
+        "title": "Beginner Piano",
+        "slug": "beginner-piano",
+        "description": "Learn the basics of playing the piano with this comprehensive beginner course.",
+        "price": 49.99,
+        "instructor": "John Smith",
+        "isFeatured": true,
+        "image": "/courses/piano1.jpg"
+      },
+      {
+        "id": 2,
+        "title": "Intermediate Piano",
+        "slug": "intermediate-piano",
+        "description": "Take your piano skills to the next level with this intermediate course.",
+        "price": 69.99,
+        "instructor": "Emily Johnson",
+        "isFeatured": false,
+        "image": "/courses/piano2.jpg"
+      },
+      {
+        "id": 3,
+        "title": "Advanced Piano Techniques",
+        "slug": "advanced-piano-techniques",
+        "description": "Master advanced piano techniques and enhance your playing abilities.",
+        "price": 99.99,
+        "instructor": "Michael Brown",
+        "isFeatured": true,
+        "image": "/courses/piano3.jpg"
+      },
+      {
+        "id": 4,
+        "title": "Piano Theory Fundamentals",
+        "slug": "piano-theory-fundamentals",
+        "description": "Build a solid understanding of piano theory to excel in your playing.",
+        "price": 59.99,
+        "instructor": "Sarah Wilson",
+        "isFeatured": false,
+        "image": "/courses/piano4.jpg"
+      },
+      {
+        "id": 5,
+        "title": "Jazz Piano Improvisation",
+        "slug": "jazz-piano-improvisation",
+        "description": "Explore the art of jazz piano improvisation and develop your own unique style.",
+        "price": 79.99,
+        "instructor": "David Jones",
+        "isFeatured": true,
+        "image": "/courses/piano5.jpg"
+      },
+      {
+        "id": 6,
+        "title": "Classical Piano Masterpieces",
+        "slug": "classical-piano-masterpieces",
+        "description": "Study classical piano masterpieces and learn to perform them with grace and precision.",
+        "price": 89.99,
+        "instructor": "Emma White",
+        "isFeatured": true,
+        "image": "/courses/piano6.jpg"
+      },
+      {
+        "id": 7,
+        "title": "Pop Piano Hits",
+        "slug": "pop-piano-hits",
+        "description": "Learn to play popular piano hits from various genres and eras.",
+        "price": 49.99,
+        "instructor": "Alex Johnson",
+        "isFeatured": false,
+        "image": "/courses/piano7.jpg"
+      },
+      {
+        "id": 8,
+        "title": "Blues Piano Foundations",
+        "slug": "blues-piano-foundations",
+        "description": "Discover the fundamentals of blues piano and start playing soulful blues tunes.",
+        "price": 59.99,
+        "instructor": "Daniel Brown",
+        "isFeatured": false,
+        "image": "/courses/piano8.jpg"
+      },
+      {
+        "id": 9,
+        "title": "Piano for Kids",
+        "slug": "piano-for-kids",
+        "description": "Introduce your child to the joy of playing piano with this fun and interactive course.",
+        "price": 39.99,
+        "instructor": "Sophie Lee",
+        "isFeatured": true,
+        "image": "/courses/piano9.jpg"
+      },
+      {
+        "id": 10,
+        "title": "Piano Sight-Reading Mastery",
+        "slug": "piano-sight-reading-mastery",
+        "description": "Master the skill of sight-reading piano music and become a more versatile musician.",
+        "price": 69.99,
+        "instructor": "Matthew Taylor",
+        "isFeatured": false,
+        "image": "/courses/piano10.jpg"
+      },
+      {
+        "id": 11,
+        "title": "Contemporary Piano Techniques",
+        "slug": "contemporary-piano-techniques",
+        "description": "Explore modern piano techniques used in contemporary music genres.",
+        "price": 79.99,
+        "instructor": "Olivia Martinez",
+        "isFeatured": true,
+        "image": "/courses/piano11.jpg"
+      },
+      {
+        "id": 12,
+        "title": "Piano Performance Workshop",
+        "slug": "piano-performance-workshop",
+        "description": "Join this workshop to hone your piano performance skills in a supportive environment.",
+        "price": 49.99,
+        "instructor": "Andrew White",
+        "isFeatured": false,
+        "image": "/courses/piano12.jpg"
+      }
+    ]
+  }
+  
