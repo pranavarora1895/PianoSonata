@@ -6,6 +6,12 @@ This React app implements a really cool Aceternity UI that appeals more to users
 
 
 
+https://github.com/user-attachments/assets/03d9dc90-6ca2-4e77-a460-e33111d2a33b
+
+
+
+
+
 ## Getting Started
 
 First, run the development server:
